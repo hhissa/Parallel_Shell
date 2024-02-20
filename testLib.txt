@@ -1,0 +1,29 @@
+retVal=1
+maxNumRunning=20
+outputDir=someOutDir
+commandTemplate=MY_COMMAND {}
+argumentList=this that other
+that
+THISthat
+tTHIShat
+thTHISat
+thaTHISt
+thatTHIS
+THISTHISthat
+THIStTHIShat
+THISthTHISat
+THISthaTHISt
+THISthatTHIS
+tTHISTHIShat
+tTHIShTHISat
+tTHIShaTHISt
+tTHIShatTHIS
+thTHISTHISat
+thTHISaTHISt
+thTHISatTHIS
+thTHISTHISat
+thTHISaTHISt
+THISthTHISatTHIS
+thTHISTHISatTHIS
+thTHISaTHIStTHIS
+thTHISatTHISTHIS

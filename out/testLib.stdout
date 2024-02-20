@@ -1,0 +1,11 @@
+10 10 0
+3041067 1 0 sleep 10; echo 1 1.1.gif; echo 1; echo 2;
+3041068 1 0 sleep 10; echo 2 2.2.gif; echo 1; echo 2;
+3041069 1 0 sleep 10; echo 3 3.3.gif; echo 1; echo 2;
+3041071 1 0 sleep 10; echo 4 4.4.gif; echo 1; echo 2;
+3042398 1 0 sleep 10; echo 5 5.5.gif; echo 1; echo 2;
+3042399 1 0 sleep 10; echo 6 6.6.gif; echo 1; echo 2;
+3042400 1 0 sleep 10; echo 7 7.7.gif; echo 1; echo 2;
+3042406 1 0 sleep 10; echo 8 8.8.gif; echo 1; echo 2;
+3043658 1 0 sleep 10; echo 9 9.9.gif; echo 1; echo 2;
+3043665 1 0 sleep 10; echo 10 10.10.gif; echo 1; echo 2;
